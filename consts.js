@@ -260,7 +260,9 @@ var thirteenStrings = [
     "여얼세엣", // Korean
     "열세엣", // Korean (TODO: Also, Anything that matches "^(열|(여어*얼))(셋|(세에*엣))$" is 13)
     // End of some Korean variants 🇰🇷
-
+    
+    "Tekau mā toru" // Maori
+    
     // Beginning of all Polish variants 🇵🇱
     "trzynaście", // Polish
     "trzynasty", // Polish
